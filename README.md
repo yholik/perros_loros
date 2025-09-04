@@ -7,31 +7,6 @@ Este proyecto consiste en la creación de clases en C# que modelan animales, tra
 Se parte de una clase base `Animal`, de la cual heredan `Perro` y `Loro`.  
 Cada clase incluye atributos y métodos particulares, además de funcionalidades comunes a todos los animales.  
 
-### Clase `Animal`  
-- **Atributos:**  
-  - `nombre`  
-  - `edad`  
-  - `kilosComidaConsumida`  
-
-- **Métodos:**  
-  - `getInicial()`: retorna la inicial del nombre.  
-  - `alimentar(char alimento)`: incrementa los kilos consumidos según el tipo de alimento:  
-    - `a` → +1 kg  
-    - `b` → +2.5 kg  
-    - `c` → +3 kg  
-    - En caso de un valor inválido, puede lanzar una excepción (opcional).  
-
-### Clase `Perro` (hereda de `Animal`)  
-- **Atributo:**  
-  - `raza`  
-
-### Clase `Loro` (hereda de `Animal`)  
-- **Atributo:**  
-  - `palabraFavorita`  
-
-- **Método:**  
-  - `aprenderPalabra(string palabra)`: si la nueva palabra es más larga que la actual, pasa a ser la favorita.  
-
 ### Opcional  
 - Se puede agregar una clase extra que también herede de `Animal`.  
 
