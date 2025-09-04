@@ -1,0 +1,16 @@
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\bin\Debug\Perros_Loros_01.exe.config
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\bin\Debug\Perros_Loros_01.exe
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\bin\Debug\Perros_Loros_01.pdb
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.csproj.AssemblyReference.cache
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.csproj.CoreCompileInputs.cache
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.exe
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.pdb
+C:\Users\holik\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.exe.config
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\bin\Debug\Perros_Loros_01.exe.config
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\bin\Debug\Perros_Loros_01.exe
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\bin\Debug\Perros_Loros_01.pdb
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.exe.config
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.exe
+C:\Users\Usuario\source\repos\Perros_Loros_01\Perros_Loros_01\obj\Debug\Perros_Loros_01.pdb
